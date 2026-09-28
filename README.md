@@ -1,4 +1,37 @@
-# Introduction to GitHub
+# Introduction to GitHub · GitHub 入门练习
+
+通过分支、提交和 Pull Request，完成一次完整的 GitHub 协作练习。
+
+**GitHub Skills 官方练习副本 · 初学者 · 约一小时**
+
+## 一句话介绍
+
+这是 GitHub Skills 的 Introduction to GitHub 练习仓库副本，适合初学者认识仓库、分支、提交和 Pull Request。下方保留了原练习说明与入口。
+
+## 快速开始
+
+打开本仓库的 [练习任务](https://github.com/9-GETOVER-9/skills-introduction-to-github/issues/1)，按步骤创建分支、修改文件并提交 Pull Request。
+
+## 学习内容
+
+| 步骤 | 练习 |
+|---|---|
+| 建立分支 | 在独立分支上修改文件 |
+| 提交更改 | 记录一次代码或文档变更 |
+| 发起 PR | 在 GitHub 上审阅改动 |
+| 合并 PR | 完成协作闭环 |
+
+## 核心工作流
+
+```text
+创建分支 → 修改文件 → 提交 → Pull Request → 合并
+```
+
+## 来源
+
+练习内容来自 [GitHub Skills](https://skills.github.com/)，仓库内保留原始许可与说明。
+
+## 原练习说明
 
 _Get started using GitHub in less than an hour._
 
